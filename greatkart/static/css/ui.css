@@ -1461,3 +1461,7 @@ a[class*="card"]:hover .title {
 }
 
 /*# sourceMappingURL=ui.css.map */
+
+.errorlist {
+  color: rgb(226, 11, 11);
+}

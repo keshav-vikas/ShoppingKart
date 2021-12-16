@@ -10,6 +10,7 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.1/ref/settings/
 """
 
+from django.contrib.messages import constants as messages
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -136,3 +137,15 @@ MEDIA_ROOT = BASE_DIR / 'media'
 STATICFILES_DIRS = [
     'greatkart/static',
 ]
+
+MESSAGE_TAGS = {
+    messages.ERROR: 'danger',
+}
+
+
+# SMTP configuration
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_PORT = 587
+EMAIL_HOST_USER = 'team.keshav.vikas@gmail.com'
+EMAIL_HOST_PASSWORD = 'bvdcjldeskvmlrwo'
+EMAIL_USE_TLS = True
