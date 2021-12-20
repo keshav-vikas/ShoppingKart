@@ -1,6 +1,6 @@
 
 # ShoppingKart
-> An eCommerce website created with Python Django framework.
+> An eCommerce Web Application created with Python Django framework.
 > Live demo [_here_](https://google.com). 
 
 ## Technologies Used
@@ -36,56 +36,60 @@
 - ### Review and Rating
   * Interactive rating stars and comment
 
-
-## Navigate through code
-1. HTML templates can be found in directory `templates`.
-
-2. Codes for each feature can be found in below list of directories correspondingly:
->
-| Directory | Feature |
-| :---: | :---: |
-| `accounts` | User Login System, My Account Management |
-| `store, category` | Product Display, Review and Rating |
-| `carts` | Shopping Cart |
-| `orders` | Order and Payment |
-
-3. In each directory, you can mainly check out the following three files:
->
-| File | Content |
-| :---: | :---: |
-| `urls.py`   |  url patterns that direct the user to the corresponding views |
-| `views.py`  |  functions that process data based on related models |
-| `models.py` |  essential fields and behaviors of data |
-
+ <hr>
 # Home Page
 <img src="./project_image/homepage.PNG">  
  <hr>
+ <br>
+ 
+ 
+ 
 # All Products Page
 <img src="./project_image/all_products.PNG">  
  <hr>
-
+ <br>
+ 
+ 
+ 
 # Single Product Page
 <img src="./project_image/single_product_detail.PNG">  
-
-
+ <hr>
+ <br>
+ 
+ 
+ 
 # My Cart Page
 <img src="./project_image/mycart.PNG">    
-
-
+ <hr>
+ <br>
+ 
+ 
+ 
 # Checkout Page
 <img src="./project_image/chekoutpage.PNG">  
+ <hr>
+  <br>
+
 
 
 # Payment Page
 <img src="./project_image/review_payment.PNG">  
-
+ <hr>
+  <br>
+  
+  
 
 # Paypal Integration Page
 <img src="./project_image/paypl.PNG">  
-
-
+ <hr>
+ <br>
+ 
+ 
 # Bill Generation Page
 <img src="./project_image/billgen.PNG">  
+ <hr>
+  <br>
+  
 
 
 # User Dashboard Page
