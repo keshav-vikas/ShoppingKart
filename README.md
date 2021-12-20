@@ -36,7 +36,8 @@
 - ### Review and Rating
   * Interactive rating stars and comment
 
- <hr>
+<hr>
+
 # Home Page
 <img src="./project_image/homepage.PNG">  
  <hr>
