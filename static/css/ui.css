@@ -464,7 +464,7 @@ p:last-child {
 .brand-wrap .logo,
 .navbar-brand .logo {
   margin-right: 9px;
-  max-height: 52px;
+  max-height: 48px;
   display: inline-block;
 }
 
@@ -1461,3 +1461,7 @@ a[class*="card"]:hover .title {
 }
 
 /*# sourceMappingURL=ui.css.map */
+
+.errorlist {
+  color: rgb(226, 11, 11);
+}
