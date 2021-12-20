@@ -15,6 +15,7 @@
 - ### User Login System
   * Registration with account activation email
   * Login, Logout & Forgot Password
+  * Custom User Model
   
 - ### My Account Management 
   * User Dashboard & Review Order
