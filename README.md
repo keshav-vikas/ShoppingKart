@@ -1,7 +1,7 @@
 
 # ShoppingKart
 > An eCommerce Web Application created with Python Django framework.
-> Live demo [_here_](https://google.com). 
+> Live demo [_here_](http://shopkart-keshav-env.eba-mt4pnm2a.us-west-2.elasticbeanstalk.com/). 
 
 ## Technologies Used
 - Python Django Framework
