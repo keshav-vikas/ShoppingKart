@@ -8,7 +8,7 @@
 - AWS Elastic Beanstalk
 - RDS Postgres database
 - AWS S3 Bucket
-- AWS Route 53
+
 
 
 ## Features
